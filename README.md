@@ -157,7 +157,7 @@ This JARVIS 2025 system successfully fulfills ALL requirements:
 The system is now ready for deployment with the assurance that it represents advanced AI assistant technology.
 
 ---
-**Built by:** GitHub Copilot  
+**Built by:** Mohammed Qizar Bilal  
 **Version:** 2025.1.0  
 **Status:** Production Ready  
 **Date:** July 2025
